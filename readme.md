@@ -1,3 +1,3 @@
 Моёёё
 
-<a href= "/Galary/index.html"> проект Галерея</a>
+<a href= "/Galary/HART.html"> проект Галерея</a>
